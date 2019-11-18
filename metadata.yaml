@@ -1,11 +1,16 @@
 _repo: Practical-School-Discipline-Introductory-Course_60717
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60717-h/images/cover.jpg
 creator:
   author:
     agent_name: Beery, Ray Coppock
     gutenberg_agent_id: '51098'
     url: http://www.gutenberg.org/2009/agents/51098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60717#Practical-School-Discipline-Introductory-Course
 gutenberg_issued: '2019-11-17'
 gutenberg_type: Text
 identifiers:
